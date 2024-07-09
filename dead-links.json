@@ -1,12 +1,1 @@
-{
-  "dappnode": {
-    "link": "https://dappnode.io/",
-    "cause": "Signal timed out.",
-    "name": "DAppNode"
-  },
-  "exponent": {
-    "link": "https://app.exponent.cx/",
-    "cause": "error sending request for url (https://app.exponent.cx/): error trying to connect: dns error: failed to lookup address information: No address associated with hostname",
-    "name": "Exponent"
-  }
-}
+{}
