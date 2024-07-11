@@ -1,1 +1,7 @@
-{}
+{
+  "euler": {
+    "link": "https://app.euler.finance/",
+    "cause": "Signal timed out.",
+    "name": "Euler Dapp"
+  }
+}
