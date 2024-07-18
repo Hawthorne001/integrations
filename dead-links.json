@@ -1,1 +1,7 @@
-{}
+{
+  "spkz": {
+    "link": "https://spkz.io/",
+    "cause": "error sending request for url (https://spkz.io/)",
+    "name": "SPKZ"
+  }
+}
